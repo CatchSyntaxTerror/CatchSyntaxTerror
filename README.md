@@ -15,4 +15,12 @@ Hey there!<br>I'm Youssef, a Computer Science student at the University of New M
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CatchSyntaxTerror&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
