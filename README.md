@@ -14,7 +14,7 @@ Hey there!<br>I'm Youssef, a Computer Science student at the University of New M
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CatchSyntaxTerror/CatchSyntaxTerror/output/snake.svg" alt="Snake animation" />
 
 ###
 
