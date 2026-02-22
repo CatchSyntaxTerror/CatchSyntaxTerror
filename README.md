@@ -4,7 +4,7 @@ Software Engineer based in New Mexico.<br>
 I’ve built a compiler in C++ and C, and I’m currently researching Machine Learning.<br>
 Uh yeah, IDK why your trying to learn about me from a GitHub repo... LOOK a snake!
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CatchSyntaxTerror&theme=github_dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CatchSyntaxTerror&layout=compact&theme=dark)
 
 ###
 
