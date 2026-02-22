@@ -1,5 +1,4 @@
 # 🐘 About Me:
-# 🐘 About Me:
 Hey — I’m Youssef.<br>
 Software Engineer based in New Mexico.<br>
 I’ve built a compiler in C++ and C, and I’m currently researching Machine Learning.<br>
